@@ -12,3 +12,4 @@
 /home/nicolas/Documentos/Curso C#/Classe-E-Objetos/obj/Debug/net8.0/Classe-E-Objetos.pdb
 /home/nicolas/Documentos/Curso C#/Classe-E-Objetos/obj/Debug/net8.0/Classe-E-Objetos.genruntimeconfig.cache
 /home/nicolas/Documentos/Curso C#/Classe-E-Objetos/obj/Debug/net8.0/ref/Classe-E-Objetos.dll
+/home/nicolas/Documentos/Curso C#/Classe-E-Objetos/obj/Debug/net8.0/Classe-E-Objetos.sourcelink.json

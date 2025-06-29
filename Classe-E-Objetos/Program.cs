@@ -1,4 +1,4 @@
-﻿Console.WriteLine("## Classe e objetos ##");
+﻿Console.WriteLine("## Classe e objetos ##\n");
 
 int x = 100;
 
@@ -7,7 +7,17 @@ p1.nome = "Nicolas";
 p1.idade = 21;
 p1.sexo = "Masculino";
 
-Console.WriteLine($"Meu nome e {p1.nome} e eu tenho {p1.idade} e sou do sexo {p1.sexo}");
+Console.WriteLine($"Meu nome e {p1.nome}, eu tenho {p1.idade} anos e sou do sexo {p1.sexo}\n");
+
+Pessoa p2 = p1;
+
+// Pessoa p2 = new Pessoa();
+// p2.nome = "Julia";
+// p2.idade = 18;
+// p2.sexo = "Feminino";
+
+Console.WriteLine($"Eu sou o {p2.nome}, tenho {p2.idade} anos e meu sexo e {p2.sexo}");
+
 
 Console.ReadKey();
 
