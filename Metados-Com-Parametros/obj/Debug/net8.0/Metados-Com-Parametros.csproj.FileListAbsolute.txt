@@ -1,0 +1,15 @@
+/home/nicolas/Documentos/Curso C#/Metados-Com-Parametros/bin/Debug/net8.0/Metados-Com-Parametros
+/home/nicolas/Documentos/Curso C#/Metados-Com-Parametros/bin/Debug/net8.0/Metados-Com-Parametros.deps.json
+/home/nicolas/Documentos/Curso C#/Metados-Com-Parametros/bin/Debug/net8.0/Metados-Com-Parametros.runtimeconfig.json
+/home/nicolas/Documentos/Curso C#/Metados-Com-Parametros/bin/Debug/net8.0/Metados-Com-Parametros.dll
+/home/nicolas/Documentos/Curso C#/Metados-Com-Parametros/bin/Debug/net8.0/Metados-Com-Parametros.pdb
+/home/nicolas/Documentos/Curso C#/Metados-Com-Parametros/obj/Debug/net8.0/Metados-Com-Parametros.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documentos/Curso C#/Metados-Com-Parametros/obj/Debug/net8.0/Metados-Com-Parametros.AssemblyInfoInputs.cache
+/home/nicolas/Documentos/Curso C#/Metados-Com-Parametros/obj/Debug/net8.0/Metados-Com-Parametros.AssemblyInfo.cs
+/home/nicolas/Documentos/Curso C#/Metados-Com-Parametros/obj/Debug/net8.0/Metados-Com-Parametros.csproj.CoreCompileInputs.cache
+/home/nicolas/Documentos/Curso C#/Metados-Com-Parametros/obj/Debug/net8.0/Metados-Com-Parametros.sourcelink.json
+/home/nicolas/Documentos/Curso C#/Metados-Com-Parametros/obj/Debug/net8.0/Metados-Com-Parametros.dll
+/home/nicolas/Documentos/Curso C#/Metados-Com-Parametros/obj/Debug/net8.0/refint/Metados-Com-Parametros.dll
+/home/nicolas/Documentos/Curso C#/Metados-Com-Parametros/obj/Debug/net8.0/Metados-Com-Parametros.pdb
+/home/nicolas/Documentos/Curso C#/Metados-Com-Parametros/obj/Debug/net8.0/Metados-Com-Parametros.genruntimeconfig.cache
+/home/nicolas/Documentos/Curso C#/Metados-Com-Parametros/obj/Debug/net8.0/ref/Metados-Com-Parametros.dll
