@@ -26,8 +26,12 @@ public class Teste
     }
     public void Exibir()
     {
-        //Passando this comom um parametro (a classe Teste)
+        //Passando this com um parametro (a classe Teste)
         PassarParametro(this);
-        
+
     }
 }
+
+
+
+
