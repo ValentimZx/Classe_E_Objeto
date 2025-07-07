@@ -1,0 +1,15 @@
+/home/nicolas/Documentos/Curso C#/Passando-Parametros-Entre-Classes/bin/Debug/net8.0/Passando-Parametros-Entre-Classes
+/home/nicolas/Documentos/Curso C#/Passando-Parametros-Entre-Classes/bin/Debug/net8.0/Passando-Parametros-Entre-Classes.deps.json
+/home/nicolas/Documentos/Curso C#/Passando-Parametros-Entre-Classes/bin/Debug/net8.0/Passando-Parametros-Entre-Classes.runtimeconfig.json
+/home/nicolas/Documentos/Curso C#/Passando-Parametros-Entre-Classes/bin/Debug/net8.0/Passando-Parametros-Entre-Classes.dll
+/home/nicolas/Documentos/Curso C#/Passando-Parametros-Entre-Classes/bin/Debug/net8.0/Passando-Parametros-Entre-Classes.pdb
+/home/nicolas/Documentos/Curso C#/Passando-Parametros-Entre-Classes/obj/Debug/net8.0/Passando-Parametros-Entre-Classes.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documentos/Curso C#/Passando-Parametros-Entre-Classes/obj/Debug/net8.0/Passando-Parametros-Entre-Classes.AssemblyInfoInputs.cache
+/home/nicolas/Documentos/Curso C#/Passando-Parametros-Entre-Classes/obj/Debug/net8.0/Passando-Parametros-Entre-Classes.AssemblyInfo.cs
+/home/nicolas/Documentos/Curso C#/Passando-Parametros-Entre-Classes/obj/Debug/net8.0/Passando-Parametros-Entre-Classes.csproj.CoreCompileInputs.cache
+/home/nicolas/Documentos/Curso C#/Passando-Parametros-Entre-Classes/obj/Debug/net8.0/Passando-Parametros-Entre-Classes.sourcelink.json
+/home/nicolas/Documentos/Curso C#/Passando-Parametros-Entre-Classes/obj/Debug/net8.0/Passando-Parametros-Entre-Classes.dll
+/home/nicolas/Documentos/Curso C#/Passando-Parametros-Entre-Classes/obj/Debug/net8.0/refint/Passando-Parametros-Entre-Classes.dll
+/home/nicolas/Documentos/Curso C#/Passando-Parametros-Entre-Classes/obj/Debug/net8.0/Passando-Parametros-Entre-Classes.pdb
+/home/nicolas/Documentos/Curso C#/Passando-Parametros-Entre-Classes/obj/Debug/net8.0/Passando-Parametros-Entre-Classes.genruntimeconfig.cache
+/home/nicolas/Documentos/Curso C#/Passando-Parametros-Entre-Classes/obj/Debug/net8.0/ref/Passando-Parametros-Entre-Classes.dll

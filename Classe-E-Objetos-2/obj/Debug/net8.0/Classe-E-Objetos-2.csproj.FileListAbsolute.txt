@@ -1,0 +1,15 @@
+/home/nicolas/Documentos/Curso C#/Classe-E-Objetos-2/bin/Debug/net8.0/Classe-E-Objetos-2
+/home/nicolas/Documentos/Curso C#/Classe-E-Objetos-2/bin/Debug/net8.0/Classe-E-Objetos-2.deps.json
+/home/nicolas/Documentos/Curso C#/Classe-E-Objetos-2/bin/Debug/net8.0/Classe-E-Objetos-2.runtimeconfig.json
+/home/nicolas/Documentos/Curso C#/Classe-E-Objetos-2/bin/Debug/net8.0/Classe-E-Objetos-2.dll
+/home/nicolas/Documentos/Curso C#/Classe-E-Objetos-2/bin/Debug/net8.0/Classe-E-Objetos-2.pdb
+/home/nicolas/Documentos/Curso C#/Classe-E-Objetos-2/obj/Debug/net8.0/Classe-E-Objetos-2.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/Documentos/Curso C#/Classe-E-Objetos-2/obj/Debug/net8.0/Classe-E-Objetos-2.AssemblyInfoInputs.cache
+/home/nicolas/Documentos/Curso C#/Classe-E-Objetos-2/obj/Debug/net8.0/Classe-E-Objetos-2.AssemblyInfo.cs
+/home/nicolas/Documentos/Curso C#/Classe-E-Objetos-2/obj/Debug/net8.0/Classe-E-Objetos-2.csproj.CoreCompileInputs.cache
+/home/nicolas/Documentos/Curso C#/Classe-E-Objetos-2/obj/Debug/net8.0/Classe-E-Objetos-2.sourcelink.json
+/home/nicolas/Documentos/Curso C#/Classe-E-Objetos-2/obj/Debug/net8.0/Classe-E-Objetos-2.dll
+/home/nicolas/Documentos/Curso C#/Classe-E-Objetos-2/obj/Debug/net8.0/refint/Classe-E-Objetos-2.dll
+/home/nicolas/Documentos/Curso C#/Classe-E-Objetos-2/obj/Debug/net8.0/Classe-E-Objetos-2.pdb
+/home/nicolas/Documentos/Curso C#/Classe-E-Objetos-2/obj/Debug/net8.0/Classe-E-Objetos-2.genruntimeconfig.cache
+/home/nicolas/Documentos/Curso C#/Classe-E-Objetos-2/obj/Debug/net8.0/ref/Classe-E-Objetos-2.dll
