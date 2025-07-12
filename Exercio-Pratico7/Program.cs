@@ -5,7 +5,7 @@ Carro carro2 = new Carro("Nissan", "GTR", "Esportivo", 2014, 500);
 Console.WriteLine("\n Informacoes do carro 1:\t ");
 carro1.Exibir();
 
-Console.WriteLine("\nnformacoes do carro 2:\t ");
+Console.WriteLine("\nInformacoes do carro 2:\t ");
 carro2.Exibir();
 
 Console.WriteLine("\nAcelerando carros:\t ");
